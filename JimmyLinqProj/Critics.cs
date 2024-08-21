@@ -1,0 +1,4 @@
+﻿enum Critics { 
+    MuddyCritic,
+    RottenTornadoes
+}
